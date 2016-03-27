@@ -29,8 +29,7 @@ work with.
 
 ### Notes on the Original (Raw) Data:
 
-In order to work easily with the data, the files used were reorganized so they all have
-the same path. The files used are:
+In order to work easily with the data, the script can be run as far as the data is decompressed in the working directory. The files used are:
 
 * activity_labels.txt: Contains the numeric labels given to the different activities carried out.
 * features.txt: Contains the numeric labels given to the features obtained by the authors.
